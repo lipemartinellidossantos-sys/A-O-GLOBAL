@@ -1,0 +1,6 @@
+{
+  "name": "AçoGestão - Serralheria & Obras",
+  "description": "Sistema de gestão completo para indústria de serralheria e estruturas metálicas: controle de obras e contratos, emissão de OS, fluxo e desempenho interno da fábrica, financeiro e relatórios de receita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
